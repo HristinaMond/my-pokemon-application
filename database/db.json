@@ -1,0 +1,108 @@
+{
+  "pokedex": [
+    {
+      "id": 1,
+      "name": "bulbasaur"
+    },
+    {
+      "id": 7,
+      "name": "squirtle"
+    },
+    {
+      "id": 27,
+      "name": "sandshrew"
+    },
+    {
+      "id": 46,
+      "name": "paras"
+    },
+    {
+      "id": 47,
+      "name": "parasect"
+    },
+    {
+      "id": 2,
+      "name": "ivysaur"
+    },
+    {
+      "id": 29,
+      "name": "nidoran-f"
+    },
+    {
+      "id": 79,
+      "name": "slowpoke"
+    },
+    {
+      "id": 10164,
+      "name": "slowpoke-galar"
+    },
+    {
+      "id": 6,
+      "name": "charizard"
+    },
+    {
+      "id": 5,
+      "name": "charmeleon"
+    },
+    {
+      "id": 8,
+      "name": "wartortle"
+    },
+    {
+      "id": 3,
+      "name": "venusaur"
+    },
+    {
+      "id": 95,
+      "name": "onix"
+    },
+    {
+      "id": 94,
+      "name": "gengar"
+    },
+    {
+      "id": 22,
+      "name": "fearow"
+    },
+    {
+      "id": 10269,
+      "name": "miraidon-drive-mode"
+    },
+    {
+      "id": 10062,
+      "name": "latias-mega"
+    },
+    {
+      "id": 10276,
+      "name": "terapagos-terastal"
+    },
+    {
+      "id": 98,
+      "name": "krabby"
+    },
+    {
+      "id": 587,
+      "name": "emolga"
+    },
+    {
+      "id": 9,
+      "name": "blastoise"
+    },
+    {
+      "id": 42,
+      "name": "golbat"
+    },
+    {
+      "id": 19,
+      "name": "rattata"
+    },
+    {
+      "id": 4,
+      "name": "charmander"
+    },
+    {
+      "id": 10250,
+      "name": "tauros-paldea-combat-breed"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a391375a-36bb-4609-afd3-2e8e0a3082b5" name="Changes" comment="working pagination" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2sd21FqPWoKinwjEnR59PdDzGGh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Hristina/Desktop/pokemon-app/store",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hristina\Desktop\pokemon-app\store" />
+      <recent name="C:\Users\Hristina\Desktop\pokemon-app\store\pokemons" />
+      <recent name="C:\Users\Hristina\Desktop\pokemon-app\services\pokemons" />
+      <recent name="C:\Users\Hristina\Desktop\pokemon-app\services\pokedex" />
+      <recent name="C:\Users\Hristina\Desktop\pokemon-app\services" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hristina\Desktop\pokemon-app\components\pokemons\Pokemon" />
+      <recent name="C:\Users\Hristina\Desktop\pokemon-app\app\pokemons" />
+      <recent name="C:\Users\Hristina\Desktop\pokemon-app\components\TablePaginated" />
+      <recent name="C:\Users\Hristina\Desktop\pokemon-app\components\searches" />
+      <recent name="C:\Users\Hristina\Desktop\pokemon-app\store\pokemons" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a391375a-36bb-4609-afd3-2e8e0a3082b5" name="Changes" comment="" />
+      <created>1738770917765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738770917765</updated>
+      <workItem from="1738770920178" duration="16031000" />
+      <workItem from="1738845109801" duration="6976000" />
+      <workItem from="1738928330016" duration="23354000" />
+      <workItem from="1738977428542" duration="3581000" />
+      <workItem from="1739033778371" duration="2430000" />
+      <workItem from="1739179895603" duration="33011000" />
+      <workItem from="1739281914297" duration="6127000" />
+      <workItem from="1739299248806" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="working pagination" />
+    <MESSAGE value="filtering" />
+    <MESSAGE value="filtering is paginated and initial data is displayed paginated" />
+    <MESSAGE value="remove from pokedex" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove from pokedex" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+{
+  "https://localhost:3000/pokedex": "/pokedex",
+  "https://localhost:3000/pokedex/:id": "/pokedex/:id"
+}
